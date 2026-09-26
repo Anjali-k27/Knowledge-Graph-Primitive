@@ -209,6 +209,9 @@ tempCodeRunnerFile.py
 # PyPI configuration file
 .pypirc
 
+# Local Neo4j database and plugin data
+/alphafund-graph/neo4j_data/
+
 # Marimo
 marimo/_static/
 marimo/_lsp/
