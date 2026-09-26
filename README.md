@@ -137,3 +137,8 @@ Target Found: Satya Nadella (CEO of Microsoft)
 - **APOC plugin enabled** — required for future LLM-integrated graph operations (export/import procedures).
 - **`MERGE` over `CREATE`** — makes ingestion idempotent; safe to re-run without creating duplicate nodes.
 - **`execute_read` result consumed inside transaction** — prevents `ResultConsumedError` when the session closes before data is accessed.
+
+## Output 
+
+<img width="1157" height="152" alt="image" src="https://github.com/user-attachments/assets/f3ed30fc-bb25-44eb-9456-c6f1e127ed3d" />
+
